@@ -1,4 +1,4 @@
-﻿import { DateTime } from './luxon.js';
+import { DateTime } from './luxon.js';
 
 const month = ['January', 'February', 'March', 'April', 'May', 'June', 'July',
   'August', 'September', 'October', 'November', 'December'];
