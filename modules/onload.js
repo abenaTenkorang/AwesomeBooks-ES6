@@ -2,7 +2,5 @@
 export let booksArr = [];
 
 export const CheckLocalStorage = () => {
-  if (localStorage.getItem('booksArr')) {
-    booksArr = JSON.parse(localStorage.getItem('booksArr'));
-  }
+  booksArr = JSON.parse(localStorage.getItem('booksArr')) || [];
 };

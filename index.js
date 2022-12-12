@@ -11,7 +11,5 @@ const displayTime = () => setInterval(() => {
 // display time
 window.addEventListener('load', displayTime);
 
-window.onload = () => {
-  CheckLocalStorage();
-  addBooks(booksArr);
-};
+CheckLocalStorage();
+addBooks(booksArr);
