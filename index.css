@@ -31,10 +31,6 @@ body {
   gap: 20px;
 }
 
-.date-time {
-  margin: 3rem 0 0 72rem;
-}
-
 .line {
   border-right: 2px solid;
   height: 30px;
