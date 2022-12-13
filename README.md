@@ -26,6 +26,17 @@
 
  **AwesomeBooks-ES6** is the ES6 version of previous basic version of [**Awesome Books**](https://github.com/abenaTenkorang/Awesome-Books). All codes are refatored to ES6 and divided into modules. 
  
+ **Browser Display
+ 
+  ![list](https://user-images.githubusercontent.com/109290913/207261051-8d542b75-1834-43fe-bb0e-0abad87747d2.png)
+ 
+ ![Add new](https://user-images.githubusercontent.com/109290913/207260835-dcd20922-6b03-4f47-ab62-446c9d474ef7.png)
+ 
+ ![contact](https://user-images.githubusercontent.com/109290913/207261216-f6d7c2a0-6551-4628-9e46-a5a8ba16877f.png)
+
+
+
+ 
  #### List of modules
 
 In alphabetic order:
