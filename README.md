@@ -26,7 +26,7 @@
 
  **AwesomeBooks-ES6** is the ES6 version of previous basic version of [**Awesome Books**](https://github.com/abenaTenkorang/Awesome-Books). All codes are refatored to ES6 and divided into modules. 
  
- **Browser Display
+ ## Browser Display
  
   ![list](https://user-images.githubusercontent.com/109290913/207261051-8d542b75-1834-43fe-bb0e-0abad87747d2.png)
  
@@ -82,7 +82,7 @@ In alphabetic order:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-  **Implement some UX improvements: 
+  Implement some UX improvements: 
   - Add the "More" button on the home page, includeing transitions and/or animation.
 
 
