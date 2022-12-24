@@ -1,5 +1,4 @@
 # AwesomeBooks-ES6
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
 <!-- TABLE OF CONTENTS -->
 
@@ -28,7 +27,8 @@
  
  ## Browser Display
  
-  ![list](https://user-images.githubusercontent.com/109290913/207261051-8d542b75-1834-43fe-bb0e-0abad87747d2.png)
+  ![Screenshot (10)](https://user-images.githubusercontent.com/109290913/209452895-75ef824a-f8e2-49a0-ba55-ef3648e9f811.png)
+
  
  ![Add new](https://user-images.githubusercontent.com/109290913/207260835-dcd20922-6b03-4f47-ab62-446c9d474ef7.png)
  
