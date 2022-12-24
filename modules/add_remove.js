@@ -5,8 +5,7 @@ export const title = document.querySelector('#Title');
 export const author = document.querySelector('#Author');
 
 export const addBooks = (booksArr) => {
-  // eslint-disable-next-line no-plusplus
-  for (let i = 0; i < booksArr.length; i++) {
+  for (let i = 0; i < booksArr.length; i += 1) {
     const titleAndAuthor = document.createElement('div');
     titleAndAuthor.classList.add('title-author');
     booklist.append(titleAndAuthor);
