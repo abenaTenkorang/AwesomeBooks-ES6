@@ -4,7 +4,6 @@ import {
 
 import { booksArr, CheckLocalStorage } from './onload.js';
 
-// eslint-disable-next-line no-unused-vars
 class Book {
   constructor(title, author, id) {
     this.title = title;
