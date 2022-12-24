@@ -112,6 +112,17 @@ body {
   background-color: white;
 }
 
+.remove-books{
+  padding: 3px 10px;
+  font-weight: 900;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  background: red;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
 .contact ul {
   margin-top: 1rem;
 }
